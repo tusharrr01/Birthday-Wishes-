@@ -4,13 +4,13 @@ Keeping the repository public may unintentionally expose your images and other s
 
 
 
-# ��� Birthday Countdown Website
+# 👉 Birthday Countdown Website
 
 Beautiful birthday website with countdown, photo gallery, and celebration effects!
 
 ---
 
-## ��� Quick Start
+## 👉 Quick Start
 
 ```bash
 npm install
@@ -95,11 +95,11 @@ Replace `public/music.mp3` with your song
 
 ---
 
-## ��� Test Your Changes
+## 👉 Test Your Changes
 
 ### Using the Test Button
 
-There's a special **"��� Test Celebration"** button on the countdown page that lets you skip the timer instantly!
+There's a special **"👉 Test Celebration"** button on the countdown page that lets you skip the timer instantly!
 
 **What it does:**
 - ✅ Skips countdown timer
@@ -111,8 +111,8 @@ There's a special **"��� Test Celebration"** button on the countdown page 
 1. Save your changes (date, names, message, photos)
 2. Make sure `npm run dev` is running
 3. Look at the countdown page
-4. Click the **"��� Test Celebration"** button below the timer
-5. Boom! ��� You'll see the full celebration instantly
+4. Click the **"👉 Test Celebration"** button below the timer
+5. Boom! 👉 You'll see the full celebration instantly
 
 **Why use it:**
 - Test your message for typos
@@ -138,7 +138,7 @@ There's a special **"��� Test Celebration"** button on the countdown page 
   onClick={onBirthdayReached}
   title="Skip countdown and see celebration"
 >
-  ��� Test Celebration
+  👉 Test Celebration
 </button>
 {/* ⚠️ END TEST BUTTON - DELETE UP TO HERE ⚠️ */}
 ```
@@ -206,7 +206,7 @@ Refresh page (Ctrl + R)
 
 ---
 
-## ��� Deploy
+## 👉 Deploy
 
 **Before going live:** Delete test button from `Countdown.jsx` (lines 95-101)
 
@@ -220,7 +220,7 @@ Refresh page (Ctrl + R)
 
 ---
 
-## ��� Issues?
+## 👉 Issues?
 
 - **Photos not showing?** Check names (`pic1.jpg`) and location (`public/images/`)
 - **Music not playing?** Named `music.mp3` in `public/` folder, MP3 format only
