@@ -9,6 +9,11 @@ Keeping the repository public may unintentionally expose your images and other s
 Beautiful birthday website with countdown, photo gallery, and celebration effects!
 
 ---
+# 👉 Demo
+
+**Live Demo:** [Click ME !!](https://birthday-wishes-rouge-theta.vercel.app/)
+
+---
 
 ## 👉 Quick Start
 
